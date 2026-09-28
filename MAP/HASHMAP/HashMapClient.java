@@ -1,9 +1,8 @@
-package CONCEPTS;
+package MAP.HASHMAP;
 
 public class HashMapClient {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		HashMap<String, Integer> map = new HashMap<>();
 		map.put("Ankit", 87);
 		map.put("Raj", 55);

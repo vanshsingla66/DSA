@@ -1,4 +1,4 @@
-package CONCEPTS;
+package MAP.HASHMAP;
 
 public class HashMap<K, V> {
 	class Node<K, V> {
